@@ -1,0 +1,43 @@
+.personal_image {}
+
+.personal_list {
+	height: 3rem;
+	line-height: 1rem;
+}
+
+.personal_image {
+	padding: 0.5rem;
+	padding-left: 1rem;
+}
+
+
+
+.txt {
+	display: inline-block;
+	font-size: 1.1rem !important;
+	vertical-align: middle;
+	padding-left: 1rem;
+}
+
+.wallet_icon {
+	display: inline-block;
+	/*font-size: 1.8rem;*/
+	line-height: 1.7rem;
+}
+
+.center-txt {
+	font-size: 1.2rem;
+}
+
+.code-pic {
+	display: inline-block;
+	float: right;
+	height: 3.6rem;
+	width: 3.6rem;
+}
+
+.code-pic span {
+	font-size: 1.4rem;
+	line-height: 4rem;
+	padding-right: 0.6rem;
+}
